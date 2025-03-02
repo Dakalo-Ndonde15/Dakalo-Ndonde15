@@ -10,6 +10,8 @@
   - [Setting Up Active Directory using Azure VMs](https://github.com/Dakalo-Ndonde15/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols)
   - [RDP On Azure Sentinel](https://github.com/Dakalo-Ndonde15/RDP-on-Azure-Sentinel)
+- <b>Implementing Ticketing System via Jirak</b>
+  - [Implementing Ticketing System via Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN)
 - <b>Office365-Admin</b>
