@@ -31,7 +31,9 @@
    - [DHCP Server Setup with Inter-VLAN Routing](https://github.com/Dakalo-Ndonde15/DHCP-Server-Setup)
    - [Core and Access Switch, Voice VLAN](https://github.com/Dakalo-Ndonde15/VLAN-Configuration)
    - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Port-Security)
-   - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Port-Security)
+  - <b>Powershell</b>
+   [JWipe - Disk Sanitization](https://github.com/Dakalo-Ndonde15/Jwipe.PowerShell)
+  -     
 
 
   
