@@ -20,6 +20,7 @@
 - <b>Active Directory</b>
    - [Active Directory ](https://github.com/Dakalo-Ndonde15/Active-Directory)
    - [Creating Setting up Applying and Testing Group Policy Management](https://github.com/Dakalo-Ndonde15/Group-Policy-Management)
+   -  [Implementing Security Policies](https://github.com/Dakalo-Ndonde15/Security-Policies)
 -  <b>Networking</b>
    - [Setting up Network Sharing on Windows Server Shared VS NTSF](https://github.com/Dakalo-Ndonde15/Network-Sharing)
    - [VLAN commands and verification](https://github.com/Dakalo-Ndonde15/Switch-Configuration)
@@ -27,6 +28,8 @@
    - [Console and SSH Connection for Switch Configuration](https://github.com/Dakalo-Ndonde15/SSH-Switch-Config)
    - [DHCP Server Setup with Inter-VLAN Routing](https://github.com/Dakalo-Ndonde15/DHCP-Server-Setup)
    - [Core and Access Switch, Voice VLAN](https://github.com/Dakalo-Ndonde15/VLAN-Configuration)
+   - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Port-Security)
+   - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Port-Security)
 
 
   
