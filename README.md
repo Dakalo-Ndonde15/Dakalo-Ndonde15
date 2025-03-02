@@ -18,6 +18,7 @@
    - [Setting Up and Managing Office 365 for Small Business Operations](https://github.com/Dakalo-Ndonde15/O365-Admin)
 - <b>Hyper V</b>
    - [Hyper-V-Manager-Installation](https://github.com/Dakalo-Ndonde15/Hyper-V-Manager-Installation)
+   - [Home Lab: Active Directory AD & PowerShell](https://github.com/Dakalo-Ndonde15/HomeLab-AD-Powershell)
 - <b>ServiceNow Service Portal</b>
    - [Service Now Service Portal Lab ](https://github.com/Dakalo-Ndonde15/ServiceNow-Service-Portal)
    - [Service Now IT Support Ticketing ](https://github.com/Dakalo-Ndonde15/ServiceNow-Ticketing)
