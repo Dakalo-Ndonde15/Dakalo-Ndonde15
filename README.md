@@ -1,22 +1,16 @@
-<h1>Hi I'm Dakalo, an <br/><a href="https://github.com/Dakalo-Ndonde15/">IT Support Specialist</a>,  <a href="https://www.youtube.com/@dakalondonde">YouTuber</a></h1>
+<h1>Hi I'm Dakalo, an <br/><a href="https://github.com/Dakalo-Ndonde15/">IT Support Specialist</a>,  <a href="https://www.youtube.com/@dakalondonde">YouTuber</a>☺</h1>
 
 <h2>🖥️ IT Support Projects:🖥️</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>osTicket: Creating a Ticketing System for Help Desk (osTicket)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Microsoft Azure </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Virtual Private Network</b> 
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -26,7 +20,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳Contact Me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
