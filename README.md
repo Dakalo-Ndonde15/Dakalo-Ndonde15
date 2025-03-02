@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dakalo! <br/><a href="https://github.com/Dakalo-Ndonde15/">Google IT Support Proffesional</a>, <a href="https://www.linkedin.com/in/dakalo-ndonde-0281902a7/">HelpDesk Professional</a>, <a href="https://www.youtube.com/@dakalondonde">YouTuber</a></h1>
+<h1>Hi I'm Dakalo, an <br/><a href="https://github.com/Dakalo-Ndonde15/">IT Support Specialist</a>,  <a href="https://www.youtube.com/@dakalondonde">YouTuber</a></h1>
 
 <h2>🖥️ IT Support Projects:🖥️</h2>
 
