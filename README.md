@@ -3,13 +3,14 @@
 <h2>🖥️ IT Support Projects:🖥️</h2>
 
 - <b>osTicket: Creating a Ticketing System for Help Desk (osTicket)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Dakalo-Ndonde15/Post-Install-Config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Dakalo-Ndonde15/Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Virtual Private Network</b> 
+  - [Setting Up Active Directory using Azure VMs](https://github.com/Dakalo-Ndonde15/Configure-AD)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN)
 
 
 <h2>📺 Popular YouTube Videos</h2>
@@ -22,10 +23,10 @@
 
 <h2> 🤳Contact Me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DakaloNdonde | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="DakaloNdonde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dakalondonde | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dakalondonde | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
