@@ -16,6 +16,8 @@
   - [VPN Setup in Virtual Machine](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN)
 - <b>Office365-Admin</b>
    - [Setting Up and Managing Office 365 for Small Business Operations](https://github.com/Dakalo-Ndonde15/O365-Admin)
+- <b>Hyper V</b>
+   - [Hyper-V-Manager-Installation](https://github.com/Dakalo-Ndonde15/Hyper-V-Manager-Installation)
 - <b>ServiceNow Service Portal</b>
    - [Service Now Service Portal Lab ](https://github.com/Dakalo-Ndonde15/ServiceNow-Service-Portal)
    - [Service Now IT Support Ticketing ](https://github.com/Dakalo-Ndonde15/ServiceNow-Ticketing)
@@ -32,8 +34,8 @@
    - [Core and Access Switch, Voice VLAN](https://github.com/Dakalo-Ndonde15/VLAN-Configuration)
    - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Port-Security)
   - <b>Powershell</b>
-   [JWipe - Disk Sanitization](https://github.com/Dakalo-Ndonde15/Jwipe.PowerShell)
-  -     
+   - [JWipe - Disk Sanitization](https://github.com/Dakalo-Ndonde15/Jwipe.PowerShell)
+       
 
 
   
