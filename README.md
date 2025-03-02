@@ -9,9 +9,20 @@
 - <b>Microsoft Azure </b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/Dakalo-Ndonde15/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols)
+  - [RDP On Azure Sentinel](https://github.com/Dakalo-Ndonde15/RDP-on-Azure-Sentinel)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN)
+- <b>Office365-Admin</b>
+   - [Setting Up and Managing Office 365 for Small Business Operations](https://github.com/Dakalo-Ndonde15/O365-Admin)
+- <b>ServiceNow Service Portal</b>
+   - [Service Now Service Portal Lab ](https://github.com/Dakalo-Ndonde15/ServiceNow-Service-Portal)
+   - [Service Now IT Support Ticketing ](https://github.com/Dakalo-Ndonde15/ServiceNow-Ticketing)
+- <b>Active Directory</b>
+   - [Active Directory ](https://github.com/Dakalo-Ndonde15/Active-Directory)
+   - [Creating Setting up Applying and Testing Group Policy Management](https://github.com/Dakalo-Ndonde15/Group-Policy-Management)
 
+  
+  
 
 <h2>📺 Popular YouTube Videos</h2>
 
