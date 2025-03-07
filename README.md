@@ -3,7 +3,8 @@
 <h2>🖥️ IT Support Projects:🖥️</h2>
 
 - <b>osTicket: Creating a Ticketing System for Help Desk (osTicket)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs)(Azure)
+  -  [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs-V2/tree/main)(Apache)
   - [osTicket: Post-Installation Configuration](https://github.com/Dakalo-Ndonde15/Post-Install-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dakalo-Ndonde15/Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure </b>
