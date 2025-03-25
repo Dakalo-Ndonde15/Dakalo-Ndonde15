@@ -26,9 +26,9 @@
 - <b>Active Directory</b>
    - [Active Directory ](https://github.com/Dakalo-Ndonde15/Active-Directory)
    - [Creating Setting up Applying and Testing Group Policy Management](https://github.com/Dakalo-Ndonde15/Group-Policy-Management)
-   -  [Implementing Security Policies](https://github.com/Dakalo-Ndonde15/Security-Policies)
--  <b>Networking</b>(Cisco Packet Tracer)
+   - [Implementing Security Policies](https://github.com/Dakalo-Ndonde15/Security-Policies)
    - [Setting up Network Sharing on Windows Server Shared VS NTSF](https://github.com/Dakalo-Ndonde15/Network-Sharing)
+-  <b>Networking</b>(Cisco Packet Tracer)
    - [VLAN commands and verification](https://github.com/Dakalo-Ndonde15/Switch-Configuration)
    - [Setting up LAN with DHCP](https://github.com/Dakalo-Ndonde15/LAN-Setup)
    - [Console and SSH Connection for Switch Configuration](https://github.com/Dakalo-Ndonde15/SSH-Switch-Config)
