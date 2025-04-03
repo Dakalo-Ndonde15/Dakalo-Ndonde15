@@ -40,7 +40,7 @@
      
  <h2>📚Certifications📚</h2>
  
-- [https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
+- [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
 - [Generative AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/H4WKY1NGRQPA)
 - [IT Ticket Management with Typeform](https://www.coursera.org/account/accomplishments/verify/FQYRMV64QHYX)
 - [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
