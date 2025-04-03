@@ -31,7 +31,7 @@
 -  <b>Networking</b>(Cisco Packet Tracer)
    - [VLAN commands and verification](https://github.com/Dakalo-Ndonde15/Switch-Configuration)
    - [Setting up LAN with DHCP](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/LAN-Setup.md)
-   - [Console and SSH Connection for Switch Configuration](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/SSH-Switch-Config)
+   - [Console and SSH Connection for Switch Configuration](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/SSH-Switch-Config.md)
    - [DHCP Server Setup with Inter-VLAN Routing](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/DHCP-Server-Setup.md)
    - [Core and Access Switch, Voice VLAN](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/VLAN-Configuration.md)
    - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/Port-Security.md)
