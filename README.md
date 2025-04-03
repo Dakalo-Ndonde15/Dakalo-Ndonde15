@@ -16,25 +16,25 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN)
 - <b>Office365-Admin</b>
-   - [Setting Up and Managing Office 365 for Small Business Operations](https://github.com/Dakalo-Ndonde15/O365-Admin)
+   - [Setting Up and Managing Office 365 for Small Business Operations](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/O365-Admin.md)
 - <b>Hyper V</b>
-   - [Hyper-V-Manager-Installation](https://github.com/Dakalo-Ndonde15/Hyper-V-Manager-Installation)
+   - [Hyper-V-Manager-Installation](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/Hyper-V-Manager-Installation.md)
    - [Home Lab: Active Directory AD & PowerShell](https://github.com/Dakalo-Ndonde15/HomeLab-AD-Powershell)
 - <b>ServiceNow Service Portal</b>
-   - [Service Now Service Portal Lab ](https://github.com/Dakalo-Ndonde15/ServiceNow-Service-Portal)
-   - [Service Now IT Support Ticketing ](https://github.com/Dakalo-Ndonde15/ServiceNow-Ticketing)
+   - [Service Now Service Portal Lab ](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/ServiceNow-Service-Portal.md)
+   - [Service Now IT Support Ticketing ](https://github.com/Dakalo-Ndonde15/Setting-Up-A-VPN/blob/365/ServiceNow-Ticketing.md)
 - <b>Active Directory</b>
    - [Active Directory ](https://github.com/Dakalo-Ndonde15/Active-Directory)
-   - [Creating Setting up Applying and Testing Group Policy Management](https://github.com/Dakalo-Ndonde15/Group-Policy-Management)
-   - [Implementing Security Policies](https://github.com/Dakalo-Ndonde15/Security-Policies)
-   - [Setting up Network Sharing on Windows Server Shared VS NTSF](https://github.com/Dakalo-Ndonde15/Network-Sharing)
+   - [Creating Setting up Applying and Testing Group Policy Management](https://github.com/Dakalo-Ndonde15/Active-Directory/blob/Domain/Group-Policy-Management.md)
+   - [Implementing Security Policies](https://github.com/Dakalo-Ndonde15/Active-Directory/blob/Domain/Security-Policies.md)
+   - [Setting up Network Sharing on Windows Server Shared VS NTSF](https://github.com/Dakalo-Ndonde15/Active-Directory/blob/Domain/Network-Sharing.md)
 -  <b>Networking</b>(Cisco Packet Tracer)
    - [VLAN commands and verification](https://github.com/Dakalo-Ndonde15/Switch-Configuration)
-   - [Setting up LAN with DHCP](https://github.com/Dakalo-Ndonde15/LAN-Setup)
-   - [Console and SSH Connection for Switch Configuration](https://github.com/Dakalo-Ndonde15/SSH-Switch-Config)
-   - [DHCP Server Setup with Inter-VLAN Routing](https://github.com/Dakalo-Ndonde15/DHCP-Server-Setup)
-   - [Core and Access Switch, Voice VLAN](https://github.com/Dakalo-Ndonde15/VLAN-Configuration)
-   - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Port-Security)
+   - [Setting up LAN with DHCP](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/LAN-Setup.md)
+   - [Console and SSH Connection for Switch Configuration](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/SSH-Switch-Config)
+   - [DHCP Server Setup with Inter-VLAN Routing](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/DHCP-Server-Setup.md)
+   - [Core and Access Switch, Voice VLAN](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/VLAN-Configuration.md)
+   - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/Port-Security.md)
   - <b>Powershell</b>
    - [JWipe - Disk Sanitization](https://github.com/Dakalo-Ndonde15/Jwipe.PowerShell)
        
