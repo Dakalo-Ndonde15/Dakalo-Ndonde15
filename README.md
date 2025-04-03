@@ -37,14 +37,17 @@
    - [Port Security and Best Practices](https://github.com/Dakalo-Ndonde15/Switch-Configuration/blob/Cisco-Packet-Tracer/Port-Security.md)
   - <b>Powershell</b>
    - [JWipe - Disk Sanitization](https://github.com/Dakalo-Ndonde15/Jwipe.PowerShell)
-   - 
+     
  <h2>📚Certifications📚</h2>
  
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY](https://www.coursera.org/account/accomplishments/professional-cert/2UTCZBLMU7VY)
+- [Generative AI Fundamentals](https://www.coursera.org/account/accomplishments/specialization/H4WKY1NGRQPA)
+- [IT Ticket Management with Typeform](https://www.coursera.org/account/accomplishments/verify/FQYRMV64QHYX)
+- [Agile with Atlassian Jira](https://www.coursera.org/account/accomplishments/verify/5OCJ2Z3V9C4N)
+- [IT Support Technical Skills Helpdesk](https://www.udemy.com/certificate/UC-7e49c670-8029-46f4-99f3-65594d92d781/)
+  [Helpdesk Ticketing Systems Training](https://www.udemy.com/course/help-desk-ticketing-systems-training/learn/lecture/35230818?start=465#overview)
+- [Active Directory Skills for IT Support Professionals](https://www.udemy.com/course/active-directory-skills-for-it-support-professionals/learn/lecture/32003824?start=0#overview)
+- 
 
 <h2>📺 Popular YouTube Videos</h2>
 
