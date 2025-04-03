@@ -4,13 +4,13 @@
 
 - <b>osTicket: Creating a Ticketing System for Help Desk (osTicket)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs)(Azure)
-  -  [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs-V2/tree/main)(Apache)
-  - [osTicket: Post-Installation Configuration](https://github.com/Dakalo-Ndonde15/Post-Install-Config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Dakalo-Ndonde15/Ticket-Lifecycle-Examples)
+  -  [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs/blob/osTicket/osTicket-Pereqs-V2.md)(Apache)
+  - [osTicket: Post-Installation Configuration](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs/blob/osTicket/Post-Install-Config.md)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs/blob/osTicket/Ticket-Lifecycle-Examples.md)
 - <b>Microsoft Azure </b>
   - [Setting Up Active Directory using Azure VMs](https://github.com/Dakalo-Ndonde15/Configure-AD)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Dakalo-Ndonde15/Azure-Network-Protocols)
-  - [RDP On Azure Sentinel](https://github.com/Dakalo-Ndonde15/RDP-on-Azure-Sentinel)
+  - [RDP On Azure Sentinel](https://github.com/Dakalo-Ndonde15/Configure-AD/blob/NSG/RDP-on-Azure-Sentinel.md)
 - <b>Implementing Ticketing System via Jirak</b>
   - [Implementing Ticketing System via Jira](https://github.com/Dakalo-Ndonde15/Ticketing-System)
 - <b>Virtual Private Network</b>
