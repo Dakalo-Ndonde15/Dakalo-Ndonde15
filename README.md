@@ -47,7 +47,6 @@
 - [IT Support Technical Skills Helpdesk](https://www.udemy.com/certificate/UC-7e49c670-8029-46f4-99f3-65594d92d781/)
   [Helpdesk Ticketing Systems Training](https://www.udemy.com/course/help-desk-ticketing-systems-training/learn/lecture/35230818?start=465#overview)
 - [Active Directory Skills for IT Support Professionals](https://www.udemy.com/course/active-directory-skills-for-it-support-professionals/learn/lecture/32003824?start=0#overview)
-- 
 
 <h2>📺 Popular YouTube Videos</h2>
 
