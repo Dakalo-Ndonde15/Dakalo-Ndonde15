@@ -1,8 +1,8 @@
-### Hi I'm Dakalo, an 
-<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://github.com/phildaration/Documentation/blob/main/DAKALO%20NDONDE111.gif"></a>
-<a href="https://www.youtube.com/@dakalondonde"><img src="https://github.com/phildaration/Documentation/blob/main/DAKALO%20NDONDE2.gif"></a>☺
+# Hi I'm Dakalo, an 
+<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://img.shields.io/badge/_IT_SUPPORT_SPECIALIST-blue?style=for-the-badge"></a>
+<a href="https://www.youtube.com/@dakalondonde"><img src="https://img.shields.io/badge/_YOUTUBER-red?style=for-the-badge&logo=youtube&logoSize=auto"></a>☺
 
-<h2>🖥️ IT Support Projects:🖥️</h2>
+<h2>🖥️ IT SUPPORT PROJECTS:🖥️</h2>
 
 - <b>osTicket: Creating a Ticketing System for Help Desk (osTicket)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Dakalo-Ndonde15/osTicket-Prereqs)(Azure)
