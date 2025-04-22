@@ -1,4 +1,6 @@
-<h1>Hi I'm Dakalo, an <br/><a href="https://github.com/Dakalo-Ndonde15/">IT Support Specialist</a>,  <a href="https://www.youtube.com/@dakalondonde">YouTuber</a>☺</h1>
+### Hi I'm Dakalo, an 
+<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://github.com/phildaration/Documentation/blob/main/DAKALO%20NDONDE1.png"></a>
+<a href="https://www.youtube.com/@dakalondonde">YouTuber</a>☺</h1>
 
 <h2>🖥️ IT Support Projects:🖥️</h2>
 
