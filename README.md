@@ -1,6 +1,6 @@
 ### Hi I'm Dakalo, an 
-<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://github.com/phildaration/Documentation/blob/main/DAKALO%20NDONDE1.png"></a>
-<a href="https://www.youtube.com/@dakalondonde">YouTuber</a>☺</h1>
+<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://github.com/phildaration/Documentation/blob/main/DAKALO%20NDONDE111.gif"></a>
+<a href="https://www.youtube.com/@dakalondonde"><img src="https://github.com/phildaration/Documentation/blob/main/DAKALO%20NDONDE2.gif"></a>☺
 
 <h2>🖥️ IT Support Projects:🖥️</h2>
 
