@@ -58,18 +58,22 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-
 <h2> 🤳Contact Me:</h2>
 
 [<img align="left" alt="DakaloNdonde | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="DakaloNdonde | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dakalondonde | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dakalondonde | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@dakalondonde
 [instagram]: https://www.instagram.com/its_phildas_universe/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/dakalo-ndonde-0281902a7/
+<br>
+<br>
+<a href="dakalondonde15.liveblog365.com/page1.html"><img src="https://img.shields.io/badge/_VIEW_MY_RESUME_%2F_PORTFOLIO-purple?style=for-the-badge&logoSize=auto"></a>
+
+
+
 
 <!--
 **Dakalo-Ndonde15/Dakalo-Ndonde15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
