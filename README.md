@@ -70,7 +70,7 @@
 [linkedin]: https://www.linkedin.com/in/dakalo-ndonde-0281902a7/
 <br>
 <br>
-<a href="dakalondonde15.liveblog365.com/page1.html"><img src="https://img.shields.io/badge/_VIEW_MY_RESUME_%2F_PORTFOLIO-purple?style=for-the-badge&logoSize=auto"></a>
+<a href="http://dakalondonde15.liveblog365.com/page1.html"><img src="https://img.shields.io/badge/_VIEW_MY_RESUME_%2F_PORTFOLIO-purple?style=for-the-badge&logoSize=auto"></a>
 
 
 
