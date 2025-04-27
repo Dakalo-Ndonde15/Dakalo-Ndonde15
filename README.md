@@ -58,6 +58,8 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+  https://github.com/user-attachments/assets/7e42da77-4a7d-412b-a10e-f12a53346170
+
 <h2> 🤳Contact Me:</h2>
 
 [<img align="left" alt="DakaloNdonde | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
