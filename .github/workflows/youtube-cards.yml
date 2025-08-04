@@ -11,7 +11,7 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         id: youtube-cards
         with:
-          channel_id: UCers8q51YG5Q1ModcahhIEw
+          channel_id: UCipSxT7a3rn81vGLw9lqRkg
           output_only: "true"
       - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
         shell: bash
