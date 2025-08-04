@@ -59,7 +59,6 @@
 [![Installing Active Directory on Windows Server on VM HomeLab #1 1](https://ytcards.demolab.com/?id=kmFol3z67KE&title=Installing+Active+Directory+on+Windows+Server+on+VM+HomeLab+%231+1&lang=en&timestamp=1754247701&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Installing Active Directory on Windows Server on VM HomeLab #1 1")](https://www.youtube.com/watch?v=kmFol3z67KE)
 [![Azure Virtual Machines, Wireshark and Network Security Groups 1](https://ytcards.demolab.com/?id=9KyoQsB5vuM&title=Azure+Virtual+Machines%2C+Wireshark+and+Network+Security+Groups+1&lang=en&timestamp=1754080659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Azure Virtual Machines, Wireshark and Network Security Groups 1")](https://www.youtube.com/watch?v=9KyoQsB5vuM)
 [![How to Create a Linux VM in Azure Portal | Deploy Ubuntu Virtual Machine in Azure - Step by Step](https://ytcards.demolab.com/?id=eYGQLc1LBKI&title=How+to+Create+a+Linux+VM+in+Azure+Portal+%7C+Deploy+Ubuntu+Virtual+Machine+in+Azure+-+Step+by+Step&lang=en&timestamp=1753987058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Create a Linux VM in Azure Portal | Deploy Ubuntu Virtual Machine in Azure - Step by Step")](https://www.youtube.com/watch?v=eYGQLc1LBKI)
-
 <!-- END YOUTUBE-CARDS -->
 
 
