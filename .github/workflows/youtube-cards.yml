@@ -1,19 +1,27 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs every hour, on the hour
-    - cron: "*/2 * * * *"
+    # Runs every day at 12:00
+    - cron: "0 12 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
-    permissions:
-      contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
+        id: youtube-cards
         with:
           channel_id: UCers8q51YG5Q1ModcahhIEw
+          comment_tag_name: EXAMPLE-YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          max_title_lines: 2
+          output_type: html
+      - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+        shell: bash
