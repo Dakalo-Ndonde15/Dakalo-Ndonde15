@@ -14,10 +14,8 @@ jobs:
     # Run the GitHub Readme YouTube Cards action
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
-    with:
-      channel_id: UCipSxT7a3rn81vGLw9lqRkg
-      comment_tag_name: YOUTUBE-CARDS
-      youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-      show_duration: true1ModcahhIEw
-  
-    
+        with:
+          channel_id: UCers8q51YG5Q1ModcahhIEw  
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
