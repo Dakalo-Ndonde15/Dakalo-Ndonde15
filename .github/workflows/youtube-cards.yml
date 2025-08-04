@@ -20,5 +20,5 @@ jobs:
           channel_id: UCers8q51YG5Q1ModcahhIEw  
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+          show_duration: "true"
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
