@@ -12,7 +12,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: Dakalo-Ndonde15/Dakalo-Ndonde15@main
         id: youtube-cards
         with:
           channel_id: UCers8q51YG5Q1ModcahhIEw
