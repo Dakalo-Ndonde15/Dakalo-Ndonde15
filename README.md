@@ -73,7 +73,7 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/@dakalondonde
-[instagram]: https://www.instagram.com/its_phildas_universe/
+[instagram]: https://www.instagram.com/topshata2188?igsh=Y2N6ajd2MGRpMmFz
 [linkedin]: https://www.linkedin.com/in/dakalo-ndonde-0281902a7/
 <br>
 <br>
