@@ -1,6 +1,5 @@
 # Hi I'm Dakalo, an 
-<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://img.shields.io/badge/_IT_SUPPORT_SPECIALIST-blue?style=for-the-badge"></a>
-<a href="https://www.youtube.com/@dakalondonde"><img src="https://img.shields.io/badge/-YOUTUBER-red?style=for-the-badge&logo=youtube&logoSize=auto&color=%23E10600"></a>&nbsp;☺
+<a href="https://github.com/Dakalo-Ndonde15/"><img src="https://img.shields.io/badge/_IT_SUPPORT_SPECIALIST-blue?style=for-the-badge"></a>☺
 
 <h2>🖥️ IT SUPPORT PROJECTS:🖥️</h2>
 
